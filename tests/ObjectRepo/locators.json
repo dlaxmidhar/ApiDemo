@@ -1,0 +1,12 @@
+{
+    "cookie":"Allow all",
+    "logo": "API Webstore Header Logo",
+    "api": "API.org",
+    "subscription": "Subscription Info",
+    "contact": "Contact Us",
+    "line": ".verticalline",
+    "verticalline": "#root > div.header-main > nav > div > div > header > div > div.sectionDesktop > div.LoginItem > span",
+    "login": "Login or Register",
+    "cart": "0 Cart"
+  }
+  

@@ -1,0 +1,22 @@
+{
+    "allowButton": "Allow all",
+    "trendingHeading": "Trending Standards",
+    "trendingText": "Browse these trending and timely standards, critical to the safety and integrity",
+    "standardNames": [
+      "API STD 1104This standard covers the gas and arc welding of butt, fillet, and so",
+      "API STD 650This standard establishes minimum requirements for material, design, ",
+      "API SPEC 6AThis document specifies requirements and gives recommendations for th",
+      "API SPEC 5CTThis standard specifies the technical delivery conditions for steel ",
+      "API SPEC 5LSpecifies requirements for the manufacture of two product specificati",
+      "API SPEC Q1This specification establishes the minimum quality management system "
+    ],
+    "viewDetailsButtons": [
+        "#main-content > div > div.trendingstandards > div > div.MuiGrid-root.MuiGrid-container > div:nth-child(1) > div > div > div > button",
+      "div:nth-child(2) > .MuiPaper-root > .trendItem > .site-search-search-button > .MuiButtonBase-root > .MuiButton-label > [id='VIEW\\ DETAILS']",
+      "div:nth-child(3) > .MuiPaper-root > .trendItem > .site-search-search-button > .MuiButtonBase-root > .MuiButton-label > [id='VIEW\\ DETAILS']",
+      "div:nth-child(4) > .MuiPaper-root > .trendItem > .site-search-search-button > .MuiButtonBase-root > .MuiButton-label > [id='VIEW\\ DETAILS']",
+      "div:nth-child(5) > .MuiPaper-root > .trendItem > .site-search-search-button > .MuiButtonBase-root > .MuiButton-label > [id='VIEW\\ DETAILS']",
+      "div:nth-child(6) > .MuiPaper-root > .trendItem > .site-search-search-button > .MuiButtonBase-root > .MuiButton-label > [id='VIEW\\ DETAILS']"
+    ],
+    "seeAllTrendingText": "SEE ALL TRENDING STANDARDS"
+  } 

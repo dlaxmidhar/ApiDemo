@@ -1,0 +1,17 @@
+{
+    "allowAllButton": "Allow all",
+    "stayConnectedHeading": "Stay Connected",
+    "headingTextXPath": "//*[@id=\"root\"]/footer/div/div[1]/div/div/div[1]/div/div[1]/div[1]/div[1]/h5",
+    "ficonXPath": "//*[@id=\"root\"]/footer/div/div[1]/div/div/div[1]/div/div[1]/div[1]/div[2]/ul/li[1]/button",
+    "ticonXPath": "//*[@id=\"root\"]/footer/div/div[1]/div/div/div[1]/div/div[1]/div[1]/div[2]/ul/li[2]/button",
+    "liconXPath": "//*[@id=\"root\"]/footer/div/div[1]/div/div/div[1]/div/div[1]/div[1]/div[2]/ul/li[3]/button",
+    "yiconXPath": "//*[@id=\"root\"]/footer/div/div[1]/div/div/div[1]/div/div[1]/div[1]/div[2]/ul/li[4]/button",
+    "apiGlobalsXPath": "#root > footer > div > div.desktopView > div > div > div.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-12.MuiGrid-grid-md-7 > div > div.socialnavarea > div:nth-child(2) > div.api-energy-text > h5",
+    "ficon1XPath": "//*[@id=\"root\"]/footer/div/div[1]/div/div/div[1]/div/div[1]/div[2]/div[2]/ul/li[1]/button",
+    "ticon1XPath": "//*[@id=\"root\"]/footer/div/div[1]/div/div/div[1]/div/div[1]/div[2]/div[2]/ul/li[2]/button",
+    "licon1XPath": "//*[@id=\"root\"]/footer/div/div[1]/div/div/div[1]/div/div[1]/div[2]/div[2]/ul/li[3]/button",
+    "yicon1XPath": "//*[@id=\"root\"]/footer/div/div[1]/div/div/div[1]/div/div[1]/div[2]/div[2]/ul/li[4]/button",
+    "help":"Need help? Get in touch with us at",
+    "contact":"contact@apiwebstore.org"
+  }
+  

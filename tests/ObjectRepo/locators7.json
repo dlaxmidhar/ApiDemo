@@ -1,0 +1,5 @@
+{
+    "allowButton":"Allow all",
+    "footerTextLocator": "//*[@id=\"root\"]/footer/div/div[4]/div/div[1]/span/div/p/span",
+    "versionLocator": "xpath=//*[@id=\"root\"]/footer/div/div[4]/div/div[2]/span"
+}
